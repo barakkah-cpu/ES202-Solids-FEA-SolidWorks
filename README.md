@@ -1,9 +1,9 @@
 # ES202 — Solids FEA & SolidWorks
 
-Structural analysis of a real STOP sign on the ERAU Daytona Beach campus — from physical measurements and wind load estimation to pole design, material selection, and FEA validation in SolidWorks. Completed as part of ES 202 — Mechanics of Materials (Honors), Spring 2026.
+Structural analysis of a real STOP sign on the ERAU Daytona Beach campus — from physical measurements and wind load estimation to pole design, material selection, and FEA validation in SolidWorks. Completed as part of ES 202, Mechanics of Materials (Honors) Coursework, Spring 2026.
 
 ## Project Overview
-The goal was to treat a campus STOP sign as a real engineering design problem: measure it, load it, design the support pole to survive it, and validate the design with finite element analysis. Every decision — material choice, wind load method, factor of safety — is justified against engineering standards.
+The goal was to treat a campus STOP sign as a real engineering design problem: measure it, load it, design the support pole to survive it, and validate the design with finite element analysis. Every decision from material choice, wind load method, to factor of safety is justified against engineering standards.
 
 ## Deliverables
 ### 1. STOP Sign Measurements & Wind Load Estimation
@@ -35,7 +35,7 @@ Using the ASCE 7 wind load as the design input, the support pole was fully speci
 - Ultimate tensile strength: 42,000 psi
 - Selected for corrosion resistance in Daytona Beach's coastal environment
 
-**Factor of Safety:** FS = 2 applied to yield strength — permanent deformation is the failure condition, not fracture.
+**Factor of Safety:** FS = 2 applied to yield strength (permanent deformation is the failure condition, not fracture.)
 
 **Outcome:** Minimum required wall thickness calculated, then matched to a commercially available 2.5" OD aluminum tube sourced from McMaster-Carr.
 
